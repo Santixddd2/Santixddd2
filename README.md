@@ -4,7 +4,7 @@
 
 # Santiago Oliva
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Santiago%20Oliva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiago-oliva-1345b3241)](https://www.linkedin.com/in/santiago-oliva-1345b3241)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Santiago%20Oliva-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-oliva-1345b3241)
 
 ## 👋 Hi there,
 
