@@ -4,7 +4,9 @@
 
 # Santiago Oliva
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Santiago%20Oliva-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-oliva-1345b3241)
+## Contact
+<a href="https://www.instagram.com/d_2sant/">![Instagram](https://img.shields.io/badge/LachlanDev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a 
+
 
 ## 👋 Hi there,
 
