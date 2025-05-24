@@ -4,8 +4,7 @@
 
 # Santiago Oliva
 
-[![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiago-oliva-1345b3241)](https://www.linkedin.com/in/santiago-oliva-1345b3241) 
-[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:kraghav123@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Santiago%20Oliva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiago-oliva-1345b3241)](https://www.linkedin.com/in/santiago-oliva-1345b3241)
 
 ## 👋 Hi there,
 
