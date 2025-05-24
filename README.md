@@ -6,6 +6,9 @@
 
 ## Contact
 <a href="https://www.instagram.com/d_2sant/">![Instagram](https://img.shields.io/badge/d_2sant-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/santiago-oliva-1345b3241/">
+  <img src="https://img.shields.io/badge/Santiago%20Oliva-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 
 ## 👋 Hi there,
