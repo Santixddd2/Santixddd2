@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHWbxXYa_j1MQ/profile-displaybackgroundimage-shrink_350_1400/B4EZYS2wb0HkAc-/0/1744073071437?e=1753315200&v=beta&t=WjWvALES6X1RePxKpmnwrpmbirKhNPOKQyzDbSXDFks" alt="Banner personalizado de Santiago Oliva" />
+<img src="banner.png" width="100%" alt="Banner" />
 </p>
 
 # Santiago Oliva
