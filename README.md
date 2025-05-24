@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Santiago%20Oliva-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://www.youtube.com/@d2_sant849">
-  <img src="https://img.shields.io/badge/YouTube-d2_sant-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  <img src="https://img.shields.io/badge/d2_sant-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
 </a>
 
 ## 👋 Hi there,
